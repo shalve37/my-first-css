@@ -1,0 +1,120 @@
+/* * {
+    box-sizing: border-box;
+} */
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* margin: 30px; */
+    background-image: url(blue-pattern.jpg);
+    background-size: cover;
+}
+
+h1{
+    margin: 80px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 3px black;
+    text-align: center;
+    font-size: 50px;
+    /* background-color: rgb(182, 74, 23); */
+    border: 8px solid rgb(235, 31, 31);
+    border-radius: 15px;
+    padding: 20px;
+    background-image: url(2023-3d-cubes-on-hexagonal-grid-tessellated-pattern-no-div-pure-css.png);
+    background-position:cover;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    /* visibility: hidden; */
+
+
+}
+
+
+.firstclass {
+    margin: 30px;
+    border: 10px solid yellow;
+    border-radius: 15px;
+    padding: 10px;
+    background-size: 4800px;
+    background-color: rgb(99, 199, 230);
+    /* background-image: url(checkerboard-gradient.jpg); */
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+    
+}
+.secondclass {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+    color: black;
+    text-align: center;
+    margin: 30px;
+    border: 10px dashed black;
+    border-radius: 15px;
+    padding: 15px;
+    background-image: url(download\ \(5\).jpg);
+    background-size: cover;
+   
+}
+.thirdclass {
+    text-align: center;
+}
+#spanid{
+    margin: 20px;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    
+}
+#span2id{
+    margin: 30px;
+    
+}
+
+
+
+#firstid {
+    margin-left:400px;
+    margin-right:400px;
+    margin-top:100px;
+    margin-bottom:100px;
+    border: 10px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+}
+
+#secondid {
+    font-size: 50px;
+    font-weight: 900;
+    color: coral;
+}
+
+#thirdid {
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(108, 110, 233);
+}
+
+#fourthid {
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(224, 43, 98);
+}
+
+
+
+#fifthid {
+    font-size: 25px;
+    color: crimson;
+    margin: 100px;
+    border-radius: 10px;
+
+}
